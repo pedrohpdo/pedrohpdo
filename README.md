@@ -2,8 +2,6 @@
 
 🌱 Estudante do primeiro período de Sistemas de Informação na Unifacisa
 - 📚 Estudando Python
-- 📫 Me encontre em: pedropereira2312@gmail.com
-- 😄 Pronouns: ele / dele
 
 ##
 
