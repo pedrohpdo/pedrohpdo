@@ -2,6 +2,7 @@
 
 Me chamo Pedro, tenho 22 anos e sou estudante do primeiro período de Sistemas de Informação na Unifacisa.
 - 📚 Estudando Python
+- 📚 Estudando Java
 
 ##
 
