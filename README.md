@@ -1,8 +1,8 @@
-## Salve!
+## Olá!
 
 Me chamo Pedro, tenho 22 anos e sou estudante do primeiro período de Sistemas de Informação na Unifacisa.
-- 📚 Estudando Java
-- 📚 Estudando HTML + CSS/
+- 📚 Estudando JavaScript
+- 📚 Estudando HTML5 + CSS3
 
 ##
 
