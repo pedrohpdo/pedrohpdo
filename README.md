@@ -1,7 +1,7 @@
 ## Olá!
 
-Me chamo Pedro, tenho 22 anos e sou estudante do segundo período de Sistemas de Informação na Unifacisa.
-- 📚 Estudando JavaScript
+Me chamo Pedro, tenho 23 anos e sou estudante do segundo período de Sistemas de Informação na Unifacisa.
+- 📚 Estudando Java
 - 📚 Estudando HTML5 + CSS3
 
 ##
