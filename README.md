@@ -18,7 +18,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedrohpdo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpdo&layout=compact&langs_count=7&theme=tokyonight"/>
 
-## Techs
+## Tech's
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
