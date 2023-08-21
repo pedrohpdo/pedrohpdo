@@ -1,16 +1,13 @@
-<header style="text-align: center;">
-<h1>Alô, me chamo Pedro!</h1>
+# Alô, me chamo Pedro!
 <p>Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período</p>
   
-
 ## Fale Comigo
-<div> 
+<div style="justify-content: center"> 
   <a href="https://instagram.com/ppedropereiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/pedropereira23" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href = "mailto:pedropereira2312@gmail.com"><img src= "https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ppedropereiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-</header>
 
 
 ## Analytics
