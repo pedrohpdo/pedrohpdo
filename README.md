@@ -1,6 +1,6 @@
-# Alô, me chamo Pedro!
-
-- Graduando em Sistemas de Informação pela [Unifacisa](https://www.unifacisa.edu.br/home)
+<header style="text-align: center;">
+<h1>Alô, me chamo Pedro!</h1>
+<p>Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período</p>
   
 
 ## Fale Comigo
@@ -10,6 +10,7 @@
   <a href = "mailto:pedropereira2312@gmail.com"><img src= "https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ppedropereiraa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+</header>
 
 
 ## Analytics
