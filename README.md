@@ -1,5 +1,5 @@
 <h1 align="center">Alô, me chamo Pedro!</h1>
-<p align="center">Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período</p>
+<p align="center">Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período. Curioso pelo universo da TI e propenso ao mundo do back-end. Me aprofundando dentro da linguagem Java e o Spring Framework. Quero documentar um pouco do que sei por aqui e ir em buscar da primeira oportunidade.</p>
   
 <h2 align="center">Fale Comigo</h2>
 <div align="center"> 
