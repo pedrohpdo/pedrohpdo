@@ -1,6 +1,6 @@
 <h1 align="center">Alô, me chamo Pedro!</h1>
-<p align="center">Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período. Curioso pelo universo da TI e propenso ao mundo do Back-End. Me aprofundando dentro da linguagem Java e o Spring Framework. Quero documentar um pouco do que sei por aqui e ir em busca da primeira oportunidade.</p>
-  
+<p align="center">Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período. Curioso pelo universo da TI e propenso ao mundo do Back-End.</p>
+<p align="center">💬 Me pergunte sobre Java!</p>
 <h2 align="center">Fale Comigo</h2>
 <div align="center"> 
   <a href="https://instagram.com/ppedropereiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
