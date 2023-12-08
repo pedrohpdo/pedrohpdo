@@ -1,6 +1,6 @@
 <h1>Alô, me chamo Pedro!</h1>
 <p>Atualmente graduando em Sistemas de Informação pela <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> no terceiro período. Curioso pelo universo da TI e propenso ao mundo do Back-End.</p>
-<p>💬 Me pergunte sobre Java!</p>
+<p>💬 Me pergunte sobre Java, OO e Spring Boot!</p>
 
 <h2>Fale Comigo</h2>
 <div> 
