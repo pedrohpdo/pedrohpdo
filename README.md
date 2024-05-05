@@ -31,8 +31,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![RestAssured](https://img.shields.io/badge/RestAssured-4EA94B?style=for-the-badge&logo=globe&logoColor=white)&nbsp;
-![RestAssured](https://img.shields.io/badge/Cypress-4B7B5B?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
-![RestAssured](https://img.shields.io/badge/Selenium-2F7ED8?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-4B7B5B?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-2F7ED8?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 
 
 
