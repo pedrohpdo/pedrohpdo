@@ -22,6 +22,11 @@
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![RestAssured](https://img.shields.io/badge/RestAssured-4EA94B?style=for-the-badge&logo=globe&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-4B7B5B?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-2F7ED8?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![Selenide](https://img.shields.io/badge/Selenide-2F7ED7?style=for-the-badge&logo=selenide&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -29,11 +34,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![RestAssured](https://img.shields.io/badge/RestAssured-4EA94B?style=for-the-badge&logo=globe&logoColor=white)&nbsp;
-![Cypress](https://img.shields.io/badge/Cypress-4B7B5B?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
-![Selenium](https://img.shields.io/badge/Selenium-2F7ED8?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
-![Selenide](https://img.shields.io/badge/Selenide-2F7ED7?style=for-the-badge&logo=selenide&logoColor=white)&nbsp;
+
 
 
 
